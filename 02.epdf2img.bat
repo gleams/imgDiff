@@ -1,0 +1,1 @@
+npm run epdf2img & pause
