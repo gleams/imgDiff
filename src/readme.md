@@ -25,6 +25,6 @@
 
 1. `actualPdf.js` 将`pdf/actualPdf`下的pdf转为jpg
 2. `expectedPdf.js` 将`pdf/expectedPdf`下的pdf转为jpg
-3. `imgCompare`比较转换后的jpg(比较是通过文件名比较名，所以pdf名字保持一致)
+3. `imgCompare.js`比较转换后的jpg(比较是通过文件名比较名，所以pdf名字保持一致)
 
 
